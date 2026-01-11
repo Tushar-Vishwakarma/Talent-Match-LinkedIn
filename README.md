@@ -1,9 +1,10 @@
 # Talent-Match-LinkedIn
 Tinder for LinkedIn
 
-
+Recruiter: https://talentmatch-recruiter.lovable.app
 ![chrome-capture-2026-1-12](https://github.com/user-attachments/assets/771a1e2c-ff5a-4353-8b9f-9fc37d428f07)
 
 
-Recruiter: https://talentmatch-recruiter.lovable.app
+
 Candidate: https://talentmatch-candidate.lovable.app
+![chrome-capture-2026-01-12](https://github.com/user-attachments/assets/b5352fd3-7619-4992-a774-27065a64eb8f)
